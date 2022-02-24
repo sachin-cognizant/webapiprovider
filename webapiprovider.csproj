@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="3.0.0" />
-    <PackageReference Include="Microsoft.Identity.Web" Version="1.0.0" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="1.23.0" />
   </ItemGroup>
 
 
